@@ -466,7 +466,7 @@ Except for the requirement in rule 12, any notice that is required to be given t
   - (b) All equipment and documents which members and non­members have loaned to the Association must be returned;
   - (c) Assets and/or proceeds from the sale of assets will be used to settle the Association's debts and liabilities;
   - (d) Any remaining assets and/or proceeds from the sale of assets will at the discretion of the committee, be transferred to another non­profit organisation with similar purposes, or a registered charity; and 
-  - (e) If the committee is unable to determine a suitable recipient organisation, the assets and/or proceeds of sale of assets will be donated to the Electronic Frontiers Australia.
+  - (e) If the committee is unable to determine a suitable recipient organisation, the assets and/or proceeds of sale of assets will be donated to Electronic Frontiers Australia.
 
 #### 36. Custody and inspection of books and records
 
