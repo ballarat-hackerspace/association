@@ -470,9 +470,9 @@ Except for the requirement in rule 12, any notice that is required to be given t
 
 #### 36. Custody and inspection of books and records
 
-**(1)** Except as otherwise provided in these Rules, the Secretary must keep in his or her custody or under his or her control all books, documents and securities of the
+**(1)** Except as otherwise provided in these Rules, the Secretary must keep in his or her custody or under his or her control all books, documents and securities of the Association.
 
-**(2)** All accounts, books, securities and any other relevant documents of the Association must be available for inspection free of charge by any member upon
+**(2)** All accounts, books, securities and any other relevant documents of the Association must be available for inspection free of charge by any member upon request.
 
 **(3)** A member may make a copy of any accounts, books, securities and any other relevant documents of the Association.
 
