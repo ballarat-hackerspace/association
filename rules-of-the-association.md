@@ -35,7 +35,7 @@ The name of the incorporated association is _Ballarat Hackerspace_ (in these Rul
 
   - **committee** means the committee of management of the Association;
   - **financial year** means the year ending on 30 June;
-  - **general meeting** means a general meeting of members convened in accordance with
+  - **general meeting** means a general meeting of members convened in accordance with rule 12;
   - **member** means a member of the Association;
   - **ordinary member of the committee** means a member of the committee who is not an officer of the Association under rule 21;
   - **Regulations** means regulations under the Act;
@@ -119,7 +119,7 @@ The name of the incorporated association is _Ballarat Hackerspace_ (in these Rul
 
 **(1)** Subject to the Rules and by­laws of the Association, if the committee is of the opinion that a member has refused or neglected to comply with the Rules and/or by­ laws, or has been guilty of conduct unbecoming a member or prejudicial to the interests of the Association, the committee may by resolution—
 
-  - (a) suspend that member from membership of the Association for a specified
+  - (a) suspend that member from membership of the Association for a specified period; or
   - (b) expel that member from the Association; or
   - (c) fine that member an amount not exceeding $500
 
@@ -132,7 +132,7 @@ The name of the incorporated association is _Ballarat Hackerspace_ (in these Rul
 
 **(4)** For the purposes of giving notice in accordance with subrule (3), the Secretary must, as soon as practicable, cause to be given to the member a written notice—
 
-  - (a) setting out the resolution of the committee and the grounds on which it is
+  - (a) setting out the resolution of the committee and the grounds on which it is based; and
   - (b) stating that the member, or his or her representative, may address the committee at a meeting to be held not earlier than 14 days and not later than 28 days after the notice has been given to that member; and
   - (c) stating the date, place and time of that meeting; and
   - (d) informing the member that he or she may do one or both of the following—
@@ -294,7 +294,7 @@ All business that is conducted at a special general meeting and all business tha
 
 #### 18. Manner of determining whether resolution carried
 
-If a question arising at a general meeting of the Association is determined on a show of hands-
+If a question arising at a general meeting of the Association is determined on a show of hands—
 
   - (a) a declaration by the Chairperson that a resolution has been—
     - (i) carried; or
