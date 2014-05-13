@@ -663,3 +663,11 @@ The assets and income of the organisation shall be applied solely in the further
 |:----------------------|--------:|
 | Annual membership fee |     $50 |
 
+---
+<div style="page-break-after: always;"></div> 
+
+### APPENDIX 5
+
+### MASTER COPY OF THESE RULES
+
+The master copy of these rules can always be found on GitHub at [https://github.com/ballarat-hackerspace/association/blob/master/rules-of-the-association.md](https://github.com/ballarat-hackerspace/association/blob/master/rules-of-the-association.md).
