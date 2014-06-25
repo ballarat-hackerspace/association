@@ -133,6 +133,14 @@
 #### 75 Custody and inspection of books and records
 #### 76 Winding up and cancellation
 #### 77 Alteration of Rules
+#### 78 Trading
+
+## APPENDIX
+
+#### 1 Application for Membership of Ballarat Hackerspace Incorporated
+#### 2 Form of Appointment of Proxy
+#### 3 Schedule of Fees
+#### 4 Location of these rules
 
 <div style="page-break-after: always;"></div>
 
@@ -148,7 +156,7 @@ Under section 46 of the **Associations Incorporation Reform Act 2012**, these Ru
 
 ### 1 Name
 
-The name of the incorporated association is "[insert name] Incorporated".
+The name of the incorporated association is "Ballarat Hackerspace Incorporated".
 
 **Note**
 
@@ -156,11 +164,15 @@ Under section 23 of the Act, the name of the association and its registration nu
 
 ### 2 Purposes
 
-The purposes of the association are—[insert purposes].
+**(1)** The purposes of the association are—
+
+  - (a) to provide an accessible space in Ballarat than can house the necessary tools to be a successful hacker;
+  - (b) to provide a place to hold course and workshops (both formally and informally) to assist in learning new skills; and
+  - (c) to provide the opportunity for acquiring, improving or just accessing technical skill and expertise in an informal setting.
 
 ### 3 Financial year
 
-The financial year of the Association is each period of 12 months ending on [insert last day of financial year, e.g. "30 June"].
+The financial year of the Association is each period of 12 months ending on 30 June.
 
 ### 4 Definitions
 
@@ -244,7 +256,7 @@ Any person who supports the purposes of the Association is eligible for membersh
 
 ### 9 Application for membership
 
-**(1)** To apply to become a member of the Association, a person must submit a written application to a committee member stating that the person—
+**(1)** To apply to become a member of the Association, a person must submit a written application in the form of **Appendix 1** to a committee member stating that the person—
 
   - (a) wishes to become a member of the Association; and
   - (b) supports the purposes of the Association; and
@@ -253,11 +265,7 @@ Any person who supports the purposes of the Association is eligible for membersh
 **(2)** The application—
 
   - (a) must be signed by the applicant; and
-  - (b) may be accompanied by the joining fee.
-    
-    **Note**
-    
-    The joining fee is the fee (if any) determined by the Association under rule 12(3).
+  - (b) be accompanied by the annual subscription fee.
 
 ### 10 Consideration of application
 
@@ -285,18 +293,12 @@ Any person who supports the purposes of the Association is eligible for membersh
 
 **(1)** At each annual general meeting, the Association must determine—
 
-  - (a) the amount of the annual subscription (if any) for the following financial year; and
+  - (a) the amount of the annual subscription for the following financial year; and
   - (b) the date for payment of the annual subscription.
 
-**(2)** The Association may determine that a lower annual subscription is payable by associate members.
+**(2)** Any new member who joins after the start of a financial year must, for that financial year, pay the full annual subscription defined in Appendix 3.
 
-**(3)** The Association may determine that any new member who joins after the start of a financial year must, for that financial year, pay a fee equal to—
-
-  - (a) the full annual subscription; or
-  - (b) a pro rata annual subscription based on the remaining part of the financial year; or
-  - (c) a fixed amount determined from time to time by the Association.
-
-**(4)** The rights of a member (including the right to vote) who has not paid the annual subscription by the due date are suspended until the subscription is paid.
+**(3)** The rights of a member (including the right to vote) who has not paid the annual subscription by the due date are suspended until the subscription is paid.
 
 ### 13 General rights of members
 
@@ -334,6 +336,8 @@ The rights of a member are not transferable and end when membership ceases.
 
 **(2)** If a person ceases to be a member of the Association, the Secretary must, as soon as practicable, enter the date the person ceased to be a member in the register of members.
 
+**(3)** If a person ceases to be a member, or is not able to meaningfully take part in member activities (such as by reason of death, moving interstate or overseas, or a significant period of inactivity), the committee may request that any assets belonging to the Association be returned within 14 days of notice.
+
 ### 17 Resigning as a member
 
 **(1)** A member may resign by notice in writing given to the Association.
@@ -361,7 +365,7 @@ Rule 74(3) sets out how notice may be given to the association. It includes by p
     - (v) any other information determined by the Committee; and
   - (b) for each former member, the date of ceasing to be a member.
 
-**(2)** Any member may, at a reasonable time and free of charge, inspect the register of members.
+**(2)** Any member may, at a reasonable time and free of charge, inspect a register of names and dates of registration for active members.
 
 **Note**
 
@@ -372,7 +376,7 @@ Division 2—Disciplinary action
 
 The Association may take disciplinary action against a member in accordance with this Division if it is determined that the member—
 
-  - (a) has failed to comply with these Rules; or
+  - (a) has failed to comply with these Rules and by-laws of the Association; or
   - (b) refuses to support the purposes of the Association; or
   - (c) has engaged in conduct prejudicial to the Association.
 
@@ -579,7 +583,7 @@ Rule 23(4) sets out the requirements for notice of a disciplinary appeal meeting
 
 **(1)** A member may appoint another member as his or her proxy to vote and speak on his or her behalf at a general meeting other than at a disciplinary appeal meeting.
 
-**(2)** The appointment of a proxy must be in writing and signed by the member making the appointment.
+**(2)** The appointment of a proxy must be in the form set out in **Appendix 2** and signed by the member making the appointment.
 
 **(3)** The member appointing the proxy may give specific directions as to how the proxy is to vote on his or her behalf, otherwise the proxy may vote on behalf of the member in any matter as he or she sees fit.
 
@@ -593,6 +597,8 @@ Rule 23(4) sets out the requirements for notice of a disciplinary appeal meeting
 **(6)** A form appointing a proxy must be given to the Chairperson of the meeting before or at the commencement of the meeting.
 
 **(7)** A form appointing a proxy sent by post or electronically is of no effect unless it is received by the Association no later than 24 hours before the commencement of the meeting.
+
+**(8)** An electronically transferred proxy form which does not convey the same information as would be present on a printed and completed copy of the forms in Appendices 2 and 3, as applicable, will not be considered as valid.
 
 ### 35 Use of technology
 
@@ -1042,7 +1048,7 @@ A member is eligible to be elected or appointed as a committee member if the mem
 
 ### 68 Source of funds
 
-The funds of the Association may be derived from joining fees, annual subscriptions, donations, fund-raising activities, grants, interest and any other sources approved by the Committee.
+The funds of the Association may be derived from annual subscriptions, facilities fees, the proceeds of trade, donations, fund-raising activities, grants, interest and any other sources approved by the Committee.
 
 ### 69 Management of funds
 
@@ -1108,8 +1114,8 @@ The registered address of the Association is—
 **(1)** Any notice required to be given to a member or a committee member under these Rules may be given—
 
   - (a) by handing the notice to the member personally; or
-  - (b) by sending it by post to the member at the address recorded for the member on the register of members; or
-  - (c) by email or facsimile transmission.
+  - (b) by sending it by post to the member at the address recorded for the member on the register of members with cost borne by the member; or
+  - (c) by electronic or facsimile transmission.
 
 **(2)** Subrule (1) does not apply to notice given under rule 60.
 
@@ -1155,14 +1161,141 @@ The registered address of the Association is—
 
 **(2)** In the event of the winding up or the cancellation of the incorporation of the Association, the surplus assets of the Association must not be distributed to any members or former members of the Association.
 
-**(3)** Subject to the Act and any court order made under section 133 of the Act, the surplus assets must be given to a body that has similar purposes to the Association and which is not carried on for the profit or gain of its individual members.
+**(3)** All equipment and documents which members and non-members have loaned to
+ the Association must be returned.
 
-**(4)** The body to which the surplus assets are to be given must be decided by special resolution.
+**(4)** Subject to the Act and any court order made under section 133 of the Act, the surplus assets must be given to a body that has similar purposes to the Association and which is not carried on for the profit or gain of its individual members.
+
+**(5)** The body to which the surplus assets are to be given must be decided by special resolution.
+
+**(6)** If the committee is unable to determine a suitable recipient organisation, the surplus assets and/or proceeds of sale of assets will be donated to the Electronic Frontiers Australia.
 
 ### 77 Alteration of Rules
 
-These Rules may only be altered by special resolution of a general meeting of the Association.
+**(1)** These Rules may only be altered by special resolution of a general meeting of the Association.
+
+**(2)** The committee may make by-laws, for example, regarding safety, or operating procedures.
+
+**(3)** No by-law shall render ineffective, alter in meaning or remove the need to comply with any of these Rules.
 
 **Note**
 
 An alteration of these Rules does not take effect unless or until it is approved by the Registrar. If these Rules (other than rule 1, 2 or 3) are altered, the Association is taken to have adopted its own rules, not the model rules.
+
+### 78 Trading
+
+The Association may engage in commercial activities, including the trade of goods and services. Commercial activities will be conducted in accordance with the provisions of the Act.
+
+## APPENDIX
+
+### 1 Application for Membership of Ballarat Hackerspace Incorporated
+
+    I,
+       ________________________________________________________
+       (name and occupation)
+    
+    of
+       ________________________________________________________
+    
+       ___________________________ Postcode: __________________
+       (address)
+    
+    desire to become a member of Ballarat Hackerspace.
+    
+    In the event of my admission as a member, I agree to be bound
+    by the rules of the Association for the time being in force.
+    
+    Signature of applicant:
+                           ____________________________________
+    
+    Date:
+          _____________________________________________________
+    
+    
+    I,                                                         ,
+       _______________________________________________________
+    
+    a member of the Association nominate the applicant, who is
+    personally known to me, for membership of the Association.
+    
+    Signature of proposer:
+                           ____________________________________
+    
+    Date:
+          _____________________________________________________
+    
+    
+    I,                                                         ,
+       _______________________________________________________
+    
+    a member of the Association, second the nomination of the
+    applicant, who is personally known to me, for membership of
+    the Association.
+    
+    Signature of Seconder:
+                           ____________________________________
+    
+    Date:
+          _____________________________________________________
+    
+
+### 2 Form of Appointment of Proxy
+
+    I,
+       ________________________________________________________
+       (name)
+    
+    of
+       ________________________________________________________
+    
+       ___________________________ Postcode: __________________
+       (address)
+    
+    being a member of Ballarat Hackerspace appoint
+    
+       ________________________________________________________
+       (name of proxy holder)
+    
+    of
+       ________________________________________________________
+    
+       ___________________________ Postcode: __________________
+       (address of proxy holder)
+    
+    being a member of that Incorporated Association, as my proxy
+    to vote on my behalf at the meeting of the Association to be
+    held on—
+    
+                                   ____________________________
+                                   (date of meeting)
+    
+    and at any adjournment of that meeting.
+    
+    My proxy is authorised to vote
+    
+        [ ] in favour of
+        [ ] against
+    
+    the following resolution:
+                             __________________________________
+    
+          _____________________________________________________
+    
+          _____________________________________________________
+    
+    Signed:
+            ___________________________________________________
+    
+    Date:
+         ______________________________________________________
+    
+
+### 3 Schedule of Fees
+
+| Fee                   |  Amount |
+|:----------------------|--------:|
+| Annual membership fee |     $50 |
+
+### 4 Location of these rules
+
+The master copy of these rules can always be found on GitHub at [https://github.com/ballarat-hackerspace/association/blob/master/rules-of-the-association.md](https://github.com/ballarat-hackerspace/association/blob/master/rules-of-the-association.md).
