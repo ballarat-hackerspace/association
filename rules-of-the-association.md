@@ -598,7 +598,7 @@ Rule 23(4) sets out the requirements for notice of a disciplinary appeal meeting
 
 **(7)** A form appointing a proxy sent by post or electronically is of no effect unless it is received by the Association no later than 24 hours before the commencement of the meeting.
 
-**(8)** An electronically transferred proxy form which does not convey the same information as would be present on a printed and completed copy of the forms in Appendices 2 and 3, as applicable, will not be considered as valid.
+**(8)** An electronically transferred proxy form which does not convey the same information as would be present on a printed and completed copy of the forms in Appendix 2, as applicable, will not be considered as valid.
 
 ### 35 Use of technology
 
