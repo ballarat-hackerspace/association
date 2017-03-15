@@ -170,6 +170,7 @@ Under section 23 of the Act, the name of the association and its registration nu
   - (b) to provide a place to hold course and workshops (both formally and informally) to assist in learning new skills; and
   - (c) to provide the opportunity for acquiring, improving or just accessing technical skill and expertise in an informal setting.
 
+
 ### 3 Financial year
 
 The financial year of the Association is each period of 12 months ending on 30 June.
@@ -199,6 +200,10 @@ In these Rules-
 **financial year** means the 12 month period specified in rule 3;
 
 **general meeting** means a general meeting of the members of the Association convened in accordance with Part 4 and includes an annual general meeting, a special general meeting and a disciplinary appeal meeting;
+
+**hacker** means a person who creates, makes, tinkers or otherwise legally modifies software, hardware, building materials or engages in other creative outlets. It specifically does not apply to illegal activity.
+
+**hacking** is the act of performing the mentioned tasks of a hacker. The Ballarat Hackerspace does not use this term to refer to the illegal access of data or computer systems.
 
 **member** means a member of the Association;
 
