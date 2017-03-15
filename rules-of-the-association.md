@@ -200,6 +200,10 @@ In these Rules-
 
 **general meeting** means a general meeting of the members of the Association convened in accordance with Part 4 and includes an annual general meeting, a special general meeting and a disciplinary appeal meeting;
 
+**hacker** means a person who creates, makes, tinkers or otherwise legally modifies  software, hardware, building materials or engages in other creative outlets. It specifically does not apply to illegal activity.
+
+**hacking** is the act of performing the mentioned tasks of a hacker. The Ballarat Hackerspace does not use this term to refer to the illegal access of data or computer systems.
+
 **member** means a member of the Association;
 
 **member entitled to vote** means a member who under rule 13(2) is entitled to vote at a general meeting;
