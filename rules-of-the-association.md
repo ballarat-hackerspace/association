@@ -2,7 +2,7 @@
 
 ## Associations Incorporation Reform Act 2012
 
-# MODEL RULES
+# RULES OF THE ASSOCIATION BALLARAT HACKERSPACE
 
 ### For an
 
