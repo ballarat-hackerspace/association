@@ -1,18 +1,5 @@
-# CONSUMER AFFAIRS VICTORIA
-
-## Associations Incorporation Reform Act 2012
-
-# MODEL RULES
-
-### For an
-
-# INCORPORATED
-
-# ASSOCIATION
-
-
-## Associations Incorporation Reform Regulations 2012
-
+# CONSUMER AFFAIRS VICTORIA - MODEL RULES for an INCORPORATED ASSOCIATION
+## Associations Incorporation Reform Act 2012 & Associations Incorporation Reform Regulations 2012
 ## Part 3
 
 # TABLE OF PROVISIONS
