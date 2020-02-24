@@ -1,5 +1,18 @@
-# CONSUMER AFFAIRS VICTORIA - MODEL RULES for an INCORPORATED ASSOCIATION
-## Associations Incorporation Reform Act 2012 & Associations Incorporation Reform Regulations 2012
+# CONSUMER AFFAIRS VICTORIA
+
+## Associations Incorporation Reform Act 2012
+
+# RULES OF THE ASSOCIATION BALLARAT HACKERSPACE
+
+### For an
+
+# INCORPORATED
+
+# ASSOCIATION
+
+
+## Associations Incorporation Reform Regulations 2012
+
 ## Part 3
 
 # TABLE OF PROVISIONS
@@ -186,6 +199,10 @@ In these Rules-
 **financial year** means the 12 month period specified in rule 3;
 
 **general meeting** means a general meeting of the members of the Association convened in accordance with Part 4 and includes an annual general meeting, a special general meeting and a disciplinary appeal meeting;
+
+**hacker** means a person who creates, makes, tinkers or otherwise legally modifies  software, hardware, building materials or engages in other creative outlets. It specifically does not apply to illegal activity.
+
+**hacking** is the act of performing the mentioned tasks of a hacker. The Ballarat Hackerspace does not use this term to refer to the illegal access of data or computer systems.
 
 **member** means a member of the Association;
 
