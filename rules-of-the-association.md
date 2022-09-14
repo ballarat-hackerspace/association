@@ -904,17 +904,19 @@ A member is eligible to be elected or appointed as a committee member if the mem
 
 **(5)** The Secretary or the President may give a copy of the representations to each member of the Association or, if they are not so given, the member may require that they be read out at the meeting at which the special resolution is to be proposed.
 
-**(6)** Terms of office are two annual general meetings. 
+**(6)** Terms of office are two annual general meetings, with the exception of rule (55)(12). 
 
-**(7)** The position of President will be vacated on annual general meetings in even-numbers years starting in 2020.
+**(7)** The position of President will be vacated on annual general meetings in even-numbers years starting in 2024.
 
-**(8)** The position of Treasurer will be vacated on annual general meetings in even-numbers years starting in 2020.
+**(8)** The position of Treasurer will be vacated on annual general meetings in even-numbers years starting in 2024.
 
-**(9)** The position of Vice-President will be vacated on annual general meetings in even-numbers years starting in 2021.
+**(9)** The position of Vice-President will be vacated on annual general meetings in even-numbers years starting in 2023.
 
-**(10)** The position of Secretary will be vacated on annual general meetings in even-numbers years starting in 2021.
+**(10)** The position of Secretary will be vacated on annual general meetings in even-numbers years starting in 2023.
 
-**(11)** All positions will be declared vacated in the annual general meeting held in 2019.
+**(11)** All positions will be declared vacated in the annual general meeting held in 2023.
+
+**(12)** In only the annual general meeting of 2023, the terms of office for the positions of President and Treasurer will be one annual general meeting.
 
 ### 56 Vacation of office
 
