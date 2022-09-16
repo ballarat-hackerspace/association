@@ -910,9 +910,9 @@ A member is eligible to be elected or appointed as a committee member if the mem
 
 **(8)** The position of Treasurer will be vacated on annual general meetings in even-numbers years starting in 2024.
 
-**(9)** The position of Vice-President will be vacated on annual general meetings in even-numbers years starting in 2023.
+**(9)** The position of Vice-President will be vacated on annual general meetings in odd-numbers years starting in 2023.
 
-**(10)** The position of Secretary will be vacated on annual general meetings in even-numbers years starting in 2023.
+**(10)** The position of Secretary will be vacated on annual general meetings in odd-numbers years starting in 2023.
 
 **(11)** All positions will be declared vacated in the annual general meeting held in 2023.
 
