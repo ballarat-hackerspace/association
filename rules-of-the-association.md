@@ -825,9 +825,9 @@ A member is eligible to be elected or appointed as a committee member if the mem
 **(1)** This rule applies to-
 
   - (a) the first annual general meeting of the Association after its incorporation; or
-  - (b) any subsequent annual general meeting of the Association, after the annual report and financial statements of the Association have been received.
+  - (b) any subsequent relevant annual general meeting of the Association, after the annual report and financial statements of the Association have been received, subject to the timing outlayed in rule 55 subrules (6)-(10).
 
-**(2)** The Chairperson of the meeting must declare all positions on the Committee vacant and hold elections for those positions in accordance with rules 51 to 54.
+**(2)** The Chairperson of the meeting must declare all positions on the Committee vacant and hold elections for those positions in accordance with rules 51 to 55.
 
 ### 51 Nominations
 
@@ -842,7 +842,7 @@ A member is eligible to be elected or appointed as a committee member if the mem
 
 ### 52 Election of President etc.
 
-**(1)** At the annual general meeting, separate elections must be held for each of the following positions-
+**(1)** At the annual general meeting, separate elections must be held for each of the following positions, subject to the timing outlayed in rule 55 subrules (6)-(11) -
 
   - (a) President;
   - (b) Vice-President;
@@ -908,7 +908,7 @@ A member is eligible to be elected or appointed as a committee member if the mem
 
 ### 55 Term of office
 
-**(1)** Subject to subrule (3) and rule 56, a committee member holds office until the positions of the Committee are declared vacant at the next annual general meeting.
+**(1)** Subject to subrule (3) and rule 56, a committee member holds office until the positions of the Committee are declared vacant at the next relevant annual general meeting, subject to subrules (6) to (11).
 
 **(2)** A committee member may be re-elected.
 
@@ -920,6 +920,20 @@ A member is eligible to be elected or appointed as a committee member if the mem
 **(4)** A member who is the subject of a proposed special resolution under subrule (3)(a) may make representations in writing to the Secretary or President of the Association (not exceeding a reasonable length) and may request that the representations be provided to the members of the Association.
 
 **(5)** The Secretary or the President may give a copy of the representations to each member of the Association or, if they are not so given, the member may require that they be read out at the meeting at which the special resolution is to be proposed.
+
+**(6)** Terms of office are two annual general meetings, with the exception of rule (55)(12). 
+
+**(7)** The position of President will be vacated on annual general meetings in even-numbers years starting in 2024.
+
+**(8)** The position of Treasurer will be vacated on annual general meetings in even-numbers years starting in 2024.
+
+**(9)** The position of Vice-President will be vacated on annual general meetings in odd-numbers years starting in 2023.
+
+**(10)** The position of Secretary will be vacated on annual general meetings in odd-numbers years starting in 2023.
+
+**(11)** All positions will be declared vacated in the annual general meeting held in 2023.
+
+**(12)** In only the annual general meeting of 2023, the terms of office for the positions of President and Treasurer will be one annual general meeting.
 
 ### 56 Vacation of office
 
